@@ -1,0 +1,152 @@
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.exe
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.pdb
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.baml
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.g.cs
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\App.g.cs
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.cache
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.g.resources
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor_WPF_Version.Properties.Resources.resources
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.exe
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.pdb
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\proxymusic-3.0.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.dll
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.pdb
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.xml
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.xml
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.lref
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.exe
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.pdb
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\App.g.cs
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.cache
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.lref
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.exe
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.pdb
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\proxymusic-3.0.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.baml
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.g.resources
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor_WPF_Version.Properties.Resources.resources
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SSPLAB3101-1\Desktop\ScoreEditor WPF Version - Copy\ScoreEditor WPF Version\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.csprojResolveAssemblyReference.cache
+D:\Dropbox\The Challenge\WPF\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.csproj.GenerateResource.Cache
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.exe
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.pdb
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.exe
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.pdb
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\proxymusic-3.0.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.csprojResolveAssemblyReference.cache
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\App.g.cs
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.cache
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.lref
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.baml
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.g.resources
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor_WPF_Version.Properties.Resources.resources
+C:\Users\SSPLAB3101-1\Desktop\Najeeb\MusicXML\Final Music Score Editor\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.csproj.GenerateResource.Cache
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.exe
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\ScoreEditor WPF Version.pdb
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\proxymusic-3.0.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.csprojResolveAssemblyReference.cache
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\App.g.cs
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.cache
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version_MarkupCompile.lref
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\MainWindow.baml
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.g.resources
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor_WPF_Version.Properties.Resources.resources
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.csproj.GenerateResource.Cache
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.exe
+C:\Users\Najeeb\Desktop\Desktop\open source\ScoreEditor WPF Version\ScoreEditor WPF Version\obj\x86\Debug\ScoreEditor WPF Version.pdb

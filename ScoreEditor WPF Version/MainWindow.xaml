@@ -1,0 +1,289 @@
+﻿<ribbon:RibbonWindow x:Class="ScoreEditor_WPF_Version.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:ribbon="clr-namespace:Microsoft.Windows.Controls.Ribbon;assembly=RibbonControlsLibrary"
+        xmlns:my="clr-namespace:ScoreEditor_WPF_Version"
+        xmlns:c="comment"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        mc:Ignorable="c" 
+        Title="Score Editor"  Width="1300" Height="1000" Name="mainWindow" ResizeMode="CanMinimize">
+    <Window.Resources>
+        <!--Style for listbox highlight color-->
+        <Style x:Key="ListBoxStyle" TargetType="ListBoxItem">
+            <Style.Resources>
+                <!--<SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="LightGreen"/>-->
+                <SolidColorBrush x:Key="{x:Static SystemColors.ControlBrushKey}" Color="LightBlue"/>
+            </Style.Resources>
+        </Style>
+    </Window.Resources>
+    <StackPanel  Name="RootStackPanel" Height="1000">
+
+        <!--The Ribbon-->
+        <Grid Width="{Binding ElementName=mainWindow, Path=ActualWidth}"  Height="135">
+            <ribbon:Ribbon x:Name="Ribbon">
+                <ribbon:Ribbon.ApplicationMenu>
+                    <ribbon:RibbonApplicationMenu >
+                        <ribbon:RibbonApplicationMenuItem Header="About"
+                                                      x:Name="About"
+                                                      ImageSource="Images\img1.jpg" Click="About_Click"/>
+                    </ribbon:RibbonApplicationMenu>
+                </ribbon:Ribbon.ApplicationMenu>
+                <ribbon:RibbonTab x:Name="HomeTab" 
+                              Header="Home">
+
+                        <ribbon:RibbonGroup x:Name="NewOpenSave" 
+                                    Header="File">
+                            <ribbon:RibbonButton x:Name="New_ButtonDialog"
+                                         SmallImageSource="Images\new.png"
+                                         Label="New" Click="New_ButtonDialog_Click"/>
+
+                            <ribbon:RibbonButton x:Name="Open_Button"
+                                         SmallImageSource="Images\open.png"
+                                         Label="Open MusicXML" Click="Open_Button_Click"/>
+
+                            <ribbon:RibbonButton x:Name="Save_Button"
+                                         SmallImageSource="Images\Save.png"
+                                         Label="Save" Click="Save_Button_Click"/>
+
+                        </ribbon:RibbonGroup>
+
+
+
+                        <ribbon:RibbonGroup x:Name="View" 
+                                    Header="View">
+                       
+                        <ribbon:RibbonButton x:Name="zoomIn"
+                                         LargeImageSource="Images\Zoom In.png"
+                                         Label="Zoom In" Click="zoomIn_Click" />
+
+                        <ribbon:RibbonButton x:Name="zoomOut"
+                                         LargeImageSource="Images\Zoom Out.png"
+                                         Label="Zoom Out" Click="zoomOut_Click"/>
+                        <ribbon:RibbonButton x:Name="zoomAll"
+                                         LargeImageSource="Images\zoom to screen.png"
+                                         Label="Fit to Screen" Click="zoomAll_Click"/>
+                        
+                    </ribbon:RibbonGroup>
+
+                    <ribbon:RibbonGroup x:Name="PlayGroup" 
+                                    Header="Playback">
+
+                        <ribbon:RibbonButton x:Name="play"
+                                         LargeImageSource="Images\play.png"
+                                         Label="Play" Click="play_Click" />
+
+                        <ribbon:RibbonButton x:Name="stop"
+                                         LargeImageSource="Images\stop.png"
+                                         Label="Stop" Click="stop_Click"/>
+                        
+
+                    </ribbon:RibbonGroup>
+
+
+                </ribbon:RibbonTab>
+                <ribbon:RibbonTab x:Name="InsertTab" 
+                              Header="Insert" >
+                    
+                    <ribbon:RibbonGroup x:Name="InsertReplaceDeleteGroup">
+                        <ribbon:RibbonToggleButton x:Name="Add" Label="Add"
+                                                   SmallImageSource="Images\add.png"
+                                         Checked="InsertReplaceDelete_Checked"/>
+
+                        <ribbon:RibbonToggleButton x:Name="Insert" Label="Insert"
+                                                   SmallImageSource="Images\insert.png"
+                                         Checked="InsertReplaceDelete_Checked"/>
+                        
+                        <ribbon:RibbonToggleButton x:Name="Delete" Label="Delete"
+                                                   SmallImageSource="Images\delete.png"
+                                         Checked="InsertReplaceDelete_Checked"/>
+                        
+                    </ribbon:RibbonGroup>
+                    
+                    <ribbon:RibbonGroup x:Name="NotesGroup">
+                        <ribbon:RibbonToggleButton x:Name="_whole"
+                                         LargeImageSource="Images\whole.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="_half"
+                                         LargeImageSource="Images\half.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="_quarter"
+                                        LargeImageSource="Images\quarter.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="_eighth"
+                                        LargeImageSource="Images\eighth.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="_16th"
+                                         LargeImageSource="Images\16th.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="_32nd"
+                                         LargeImageSource="Images\32nd.png"
+                                         Checked="Notes_Checked"/>
+
+                        <ribbon:RibbonToggleButton x:Name="Rest_whole"
+                                         LargeImageSource="Images\rest_whole.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="Rest_half"
+                                         LargeImageSource="Images\rest_half.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="Rest_quarter"
+                                         LargeImageSource="Images\rest_quarter.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="Rest_eighth"
+                                         LargeImageSource="Images\rest_eighth.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="Rest_16th"
+                                         LargeImageSource="Images\rest_16th.png"
+                                         Checked="Notes_Checked"/>
+                        <ribbon:RibbonToggleButton x:Name="Rest_32nd"
+                                        LargeImageSource="Images\rest_32nd.png"
+                                         Checked="Notes_Checked"/>
+                        
+
+                    </ribbon:RibbonGroup>
+
+                    <ribbon:RibbonGroup x:Name="LyricSlurBeam">
+                        <ribbon:RibbonToggleButton x:Name="beam" Label="Beam"
+                                         LargeImageSource="Images\beam.png"
+                                         />
+                        <ribbon:RibbonToggleButton x:Name="slur" Label="Slur"
+                                         LargeImageSource="Images\slur.png"
+                                         />
+
+                        <ribbon:RibbonToggleButton x:Name="dot" Label="Dot"
+                                         LargeImageSource="Images\dot.png"
+                                         />
+
+                        <ribbon:RibbonToggleButton x:Name="sharp" Label="Sharp"
+                                         LargeImageSource="Images\sharp.png"
+                                         />
+
+                        <ribbon:RibbonToggleButton x:Name="flat" Label="Flat"
+                                         LargeImageSource="Images\flat.png"
+                                         />
+
+                        <ribbon:RibbonToggleButton x:Name="natural" Label="Natural"
+                                         LargeImageSource="Images\natural.png"
+                                         />
+
+                        <ribbon:RibbonToggleButton x:Name="lyrics" Label="Lyric"
+                                         LargeImageSource="Images\lyrics.png"
+                                         />
+
+                    </ribbon:RibbonGroup>
+
+
+                </ribbon:RibbonTab>
+                
+            </ribbon:Ribbon>
+        </Grid>
+        
+     
+        <!--Here goes the dialog for creating new score-->
+        <Grid Name="newgrid" Height="0" Width="788" Visibility="Hidden">
+            <Label Content="Title" Height="28" HorizontalAlignment="Left" Margin="182,38,0,0" Name="TitleLabel" VerticalAlignment="Top" />
+            <TextBox  Height="23" HorizontalAlignment="Left" Margin="228,39,0,0" Name="TitleTxtBox" VerticalAlignment="Top" Width="366" />
+            <Label Content="Instrument" Height="28" HorizontalAlignment="Left" Margin="157,74,0,0" Name="InstrumentLable" VerticalAlignment="Top" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="228,74,0,0" Name="InstrumentTxtBox" VerticalAlignment="Top" Width="366" />
+            <ListBox Name="keysiglistbox" SelectedIndex="0" Height="217" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="Single" Margin="228,129,269,0" VerticalAlignment="Top">
+               
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal" IsItemsHost="True">
+                        </WrapPanel>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+
+                <ListBoxItem Style="{StaticResource ListBoxStyle}" >
+                    <Image Source="Images\KeySig\0.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\-1.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\-2.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\-3.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\-4.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\-5.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\-6.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\-7.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}" >
+                    <Image Source="Images\KeySig\1.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\2.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\3.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\4.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\5.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\6.png" Height="53" Width="65" />
+                </ListBoxItem>
+                <ListBoxItem Style="{StaticResource ListBoxStyle}">
+                    <Image Source="Images\KeySig\7.png" Height="53" Width="65" />
+                </ListBoxItem>               
+            </ListBox>
+
+            <Label Content="Key Signature" Height="28" HorizontalAlignment="Left" Margin="142,119,0,0" Name="KeySigLable" VerticalAlignment="Top" />
+            <Label Content="Time Signature" Height="28" HorizontalAlignment="Left" Margin="135,385,0,0" Name="label1" VerticalAlignment="Top" />
+            <xctk:IntegerUpDown Name="TimesBeat" Value="4" Minimum="1" Margin="232,392,513,83" />
+            <Label Content="/" Height="28" HorizontalAlignment="Left" Margin="282,390,0,0" Name="label2" VerticalAlignment="Top" />
+            <xctk:IntegerUpDown Maximum="32" Minimum="1" Name="BeatType" Value="4" ValueChanged="BeatType_ValueChanged" Margin="0,392,442,83" HorizontalAlignment="Right" Width="43"/>
+            
+            
+            <Label Content="Staffs" Height="28" HorizontalAlignment="Left" Margin="186,431,0,0" Name="StaffLengthLabel" VerticalAlignment="Top" />
+            <xctk:IntegerUpDown Name="StaffLength" Value="12" Margin="0,438,513,37" HorizontalAlignment="Right" Width="43" />
+            <Button Content="Create" Height="23" HorizontalAlignment="Left" Margin="295,466,0,0" Name="CreateBtn" Click="CreateBtn_Click" VerticalAlignment="Top" Width="75" />
+            <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="423,466,0,0" Name="CancelBtn" Click="CancelBtn_Click" VerticalAlignment="Top" Width="75" />
+            <Label Content="Clef" Height="28" HorizontalAlignment="Left" Margin="195,351,0,0" Name="ClefLabel" VerticalAlignment="Top" />
+            <ComboBox  Height="23" HorizontalAlignment="Left" Margin="232,351,0,0" Name="ClefCombo" VerticalAlignment="Top" Width="120" SelectedIndex="0" />
+                 
+        </Grid>
+        
+       
+        <!--Here goes the actual score-->
+        <ScrollViewer Name="ScoreScrollViewer" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Height="850" >
+            <!--Here is the viewbox inside which all the score is displayed-->
+            <Viewbox Name="MainViewbox" Stretch="Fill" StretchDirection="Both"  Width="1024" Height="{Binding ElementName=StaffStackPanel, Path=Height}" >
+                <!--This is the grid for displaying overlapping layers such as a vertical stackpanel for the staff, a wrappanel for individual
+            notes and a canvas for displaying inter-note symbols such as beams etc-->
+                <Grid Name="OverlapedGrid" Width="1024">
+                   
+                    <!--Here is the stackpanel which displays the staff in the bottom most layer-->
+                    <StackPanel Name="StaffStackPanel" Orientation="Vertical" Width="{Binding ElementName=OverlapedGrid, Path=Width}"  Height="1000" >
+
+                    </StackPanel>
+                    
+                    <!-- The Wrappanelcontains individual notes in the middle layer-->
+                    <WrapPanel Name="NotesWrappanel" Width="{Binding ElementName=OverlapedGrid, Path=Width}"  Height="{Binding ElementName=StaffStackPanel, Path=Height}">
+                        
+                    </WrapPanel>
+                    
+                    <!-- This canvas is for displaying any symbols that are drawn between two or more notes in the top most layer-->
+                    <Canvas Name="TopCanvas" Width="{Binding ElementName=OverlapedGrid, Path=Width}"  Height="{Binding ElementName=StaffStackPanel, Path=Height}">
+
+                    </Canvas>
+                    
+                </Grid>
+            </Viewbox>
+        </ScrollViewer>
+        
+    </StackPanel>
+</ribbon:RibbonWindow>
